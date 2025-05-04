@@ -29,13 +29,13 @@
 
   <div style="margin-bottom: 40px; position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
-    <h3 style="margin: 0;">🎓Double Degree Ensimag in Artificial Intelligence</h3>
+    <h3 style="margin: 0;">🎓Double Degree Ensimag in Applied Artificial Intelligence</h3>
     <p style="margin: 5px 0 0 0;"><strong>Grenoble-INP Ensimag</strong> – Grenoble, France<br>2024 – 2025</p>
   </div>
 
   <div style="margin-bottom: 40px; position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
-    <h3 style="margin: 0;">🎓 Master’s Degree in Artificial Intelligence Engineering</h3>
+    <h3 style="margin: 0;">🎓 Master’s Degree in Data science and engineering</h3>
     <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Turin, Italy<br>2023 – 2025</p>
   </div>
 
