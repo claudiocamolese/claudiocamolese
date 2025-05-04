@@ -20,7 +20,29 @@
   </tr>
 </table>
 
+<h2>📙 Education</h2>
 
+<div style="display: flex; flex-direction: column; align-items: flex-start; position: relative; padding-left: 20px; border-left: 3px solid #ccc; margin-top: 20px;">
+
+  <div style="margin-bottom: 40px; position: relative;">
+    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
+    <h3 style="margin: 0;">🎓Double Degree Ensimag in Artificial Intelligence</h3>
+    <p style="margin: 5px 0 0 0;"><strong>Grenoble-INP Ensimag</strong> – Turin, Italy<br>2020 – 2025</p>
+  </div>
+
+  <div style="margin-bottom: 40px; position: relative;">
+    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
+    <h3 style="margin: 0;">🎓 Master’s Degree in Artificial Intelligence Engineering</h3>
+    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Turin, Italy<br>2023 – 2025</p>
+  </div>
+
+  <div style="position: relative;">
+    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
+    <h3 style="margin: 0;">🎓 Bachelor’s Degree in Physical Engineering</h3>
+    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Grenoble, France<br>2020 – 2023</p>
+  </div>
+
+</div>
 
 
 <div align="left">
@@ -76,29 +98,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/claudiocamolese/claudiocamolese/output/pacman-contribution-graph.svg">
 </picture>
 
-<h2>🎓 Education</h2>
 
-<div style="display: flex; flex-direction: column; align-items: flex-start; position: relative; padding-left: 20px; border-left: 3px solid #ccc; margin-top: 20px;">
-
-  <div style="margin-bottom: 40px; position: relative;">
-    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
-    <h3 style="margin: 0;">🎓Double Degree Ensimag in Artificial Intelligence</h3>
-    <p style="margin: 5px 0 0 0;"><strong>Grenoble-INP Ensimag</strong> – Turin, Italy<br>2020 – 2025</p>
-  </div>
-
-  <div style="margin-bottom: 40px; position: relative;">
-    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
-    <h3 style="margin: 0;">🎓 Master’s Degree in Artificial Intelligence Engineering</h3>
-    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Turin, Italy<br>2023 – 2025</p>
-  </div>
-
-  <div style="position: relative;">
-    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
-    <h3 style="margin: 0;">🎓 Bachelor’s Degree in Physical Engineering</h3>
-    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Grenoble, France<br>2020 – 2023</p>
-  </div>
-
-</div>
 
 
 ###
