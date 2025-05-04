@@ -10,7 +10,12 @@
       <h2>Current Projects</h2>
       <p>
         I'm an AI engineer passionate about computer vision, deep learning, and robotics.<br>
-        🚀 I work on 6D pose estimation, foundation models, and autonomous driving.<br>
+        🚀 Currently working on:
+        <ul>
+          <li>**6D Pose Estimation Project**</li>
+          <li>Contributing as a **Computer Vision Engineer** for <a href="https://www.squadra-corse-driverless.com">Squadra Corse Driverless</a></li>
+          <li>Engaged in a **UROP project** on **LLM foundation models**</li>
+        </ul>
         🎓 Double degree student at <strong>Politecnico di Torino</strong> and <strong>Ensimag</strong> in Applied AI.
       </p>
     </td>
@@ -19,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 
 <h2>📙 Education</h2>
 
