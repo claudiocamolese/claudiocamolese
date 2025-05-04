@@ -9,12 +9,11 @@
     <td align="left" width="60%">
       <h2>Current Projects</h2>
       <p>
-        I'm an AI engineer passionate about computer vision, deep learning, and robotics.<br>
         🚀 Currently working on:
         <ul>
-          <li>**6D Pose Estimation Project**</li>
-          <li>Contributing as a **Computer Vision Engineer** for <a href="https://www.squadra-corse-driverless.com">Squadra Corse Driverless</a></li>
-          <li>Engaged in a **UROP project** on **LLM foundation models**</li>
+          <li><strong>6D Pose Estimation Project<strong></li>
+          <li>Contributing as a <strong>Computer Vision Engineer<strong> for <a href="https://www.squadra-corse-driverless.com">Squadra Corse Driverless</a></li>
+          <li>Engaged in a UROP project on <strong>LLM foundation models<strong></li>
         </ul>
         🎓 Double degree student at <strong>Politecnico di Torino</strong> and <strong>Ensimag</strong> in Applied AI.
       </p>
