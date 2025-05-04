@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋! My name is Claudio</h2>
 
 <p align="left">
-  Welcome to my GitHub profile! I'm passionate about building intelligent systems that bridge the gap between theory and real-world applications.
-  From low-level programming to deep learning and robotics, I love bringing ideas to life.
+  🎯 I'm passionate about Deep Learning, with a particular focus on Computer Vision, perception systems, robotics, and Large Language Models (LLMs).
 </p>
 
 <table width="100%">
