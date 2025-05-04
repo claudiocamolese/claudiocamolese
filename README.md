@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Claudio and I'm a AI engineer</h2>
+<h2 align="left">Hi 👋! My name is Claudio</h2>
 
 ###
 ![9sv1ma](https://github.com/user-attachments/assets/d4b51d42-63f6-40f3-94fe-319cc710d59b)
