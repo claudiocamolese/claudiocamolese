@@ -7,9 +7,8 @@
 <table width="100%">
   <tr>
     <td align="left" width="60%">
-      <h2>Current Projects</h2>
+      <h2>🚀 Currently working on:</h2>
       <p>
-        🚀 Currently working on:
         <ul>
           <li><strong>6D Pose Estimation Project<strong></li>
           <li>Contributing as a <strong>Computer Vision Engineer<strong> for <a href="https://www.squadracorsedriverless.com">Squadra Corse Driverless</a></li>
