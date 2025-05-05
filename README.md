@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Claudio</h2>
 
 <p align="left">
-  🎯 I'm passionate about Deep Learning, with a particular focus on computer vision, perception systems, robotics, and Large Language Models (LLMs).
+  🎯 I'm passionate about Deep Learning, with a particular focus on computer vision, perception systems, robotics, and Large Language Models.
 </p>
 
 <table width="100%">
