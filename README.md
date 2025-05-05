@@ -29,7 +29,7 @@
   <div style="margin-bottom: 40px; position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
     <h3 style="margin: 0;">🎓Double Degree in Applied Artificial Intelligence</h3>
-    <p style="margin: 5px 0 0 0;"><strong>Grenoble-INP Ensimag</strong> – Grenoble, France<br>2024 – 2025</p>
+    <p style="margin: 5px 0 0 0;"><strong>Grenoble-INP Ensimag</strong> – Grenoble, France<br>2025 – 2026</p>
   </div>
 
   <div style="margin-bottom: 40px; position: relative;">
@@ -84,13 +84,14 @@
 </div>
 
 <div align="left">
-  <a href="claudiocamolese@gmail.com" target="_blank">
+  <a href="mailto:claudiocamolese@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/claudio-camolese-500656308/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
