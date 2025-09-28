@@ -10,7 +10,7 @@
       <h2>🚀 Currently working on:</h2>
       <p>
         <ul>
-          <li><strong>6D Pose Estimation Project<strong></li>
+          <li><strong>Cuda training for RL pusher<strong></li>
           <li>Contributing as a <strong>Computer Vision Engineer<strong> for <a href="https://www.squadracorsedriverless.com">Squadra Corse Driverless</a></li>
           <li>Engaged in a UROP project on <strong>LLM foundation models<strong></li>
       </p>
