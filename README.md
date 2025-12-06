@@ -96,13 +96,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/claudiocamolese/claudiocamolese/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=claudiocamolese.claudiocamolese&left_color=purple"  />
-</div>
-
-###
