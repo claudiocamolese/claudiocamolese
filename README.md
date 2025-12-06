@@ -30,7 +30,7 @@
     <h3 style="margin: 0;">🎓Double Degree in Artificial Intelligence</h3>
     <p style="margin: 5px 0 0 0;"><strong>Grenoble-INP Ensimag</strong> – Grenoble, France<br>2025 – 2027<br> Diplôme d'ingénieur</p>
   </div>
-    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Torino, Italy<br>2025 – 2027<br> Msc degree</p>
+    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Torino, Italy<br>2024 – 2027<br> Msc degree</p>
   </div>
 
   <div style="position: relative;">
