@@ -28,9 +28,9 @@
   <div style="margin-bottom: 40px; position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
     <h3 style="margin: 0;">🎓Double Degree in Artificial Intelligence</h3>
-    <p style="margin: 5px 0 0 0;"><strong> National School of Computer Science and Applied Mathematics (Ensimag)</strong> – Grenoble, France<br>2025 – 2026<br> MS degree </p>
+    <p style="margin: 5px 0 0 0;"><strong> National School of Computer Science and Applied Mathematics (Ensimag)</strong> – France<br>2025 – 2026<br> MS degree </p>
   </div>
-    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Torino, Italy<br>2024 – 2026<br> MS degree</p>
+    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Italy<br>2024 – 2026<br> MS degree</p>
   </div>
 
   <div style="position: relative;">
