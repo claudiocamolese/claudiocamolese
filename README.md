@@ -36,7 +36,7 @@
   <div style="position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
     <h3 style="margin: 0;">🎓 Bachelor’s Degree in Physical Engineering</h3>
-    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Turin, Italy<br>2021 – 2024</p>
+    <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Italy<br>2021 – 2024</p>
   </div>
 
 </div>
