@@ -1,12 +1,14 @@
 <h2 align="left">Hi 👋! My name is Claudio</h2>
 
 <p align="left">
-  🎯 I'm passionate about Deep Learning with a experience on computer vision, robotics, generative AI, deep NLP, GPU computing and self - driving cars.
+  I'm passionate about Deep Learning with a experience on computer vision, robotics, generative AI, deep NLP, GPU computing and self - driving cars.
+  
+  You can find more on my [website](https://claudiocamolese.github.io)
 
 <table width="100%">
   <tr>
     <td align="left" width="60%">
-      <h2>🚀 Currently working on:</h2>
+      <h2> Currently working on:</h2>
       <p>
         <ul>
           <li><strong>Cuda training for RL pusher<strong></li>
