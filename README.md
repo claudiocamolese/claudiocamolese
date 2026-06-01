@@ -30,7 +30,17 @@
   <div style="margin-bottom: 40px; position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
     <h3 style="margin: 0;">🎓Double Master's Degree specializing in Artificial Intelligence</h3>
-    <p style="margin: 5px 0 0 0;"><strong> National School of Computer Science and Applied Mathematics (Ensimag)</strong> – France<br>2025 – 2026<br></p>
+Relevant Coursework:
+
+![Generative Multimodal AI](https://img.shields.io/badge/Generative%20Multimodal%20AI-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Robotics](https://img.shields.io/badge/Robotics-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Robot Learning](https://img.shields.io/badge/Robot%20Learning-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Deep NLP](https://img.shields.io/badge/Deep%20NLP-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![GPU Programming](https://img.shields.io/badge/GPU%20Programming-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)
+![Math in ML](https://img.shields.io/badge/Math%20in%20ML-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de)    <p style="margin: 5px 0 0 0;"><strong> National School of Computer Science and Applied Mathematics (Ensimag)</strong> – France<br>2025 – 2026<br></p>
   </div>
     <p style="margin: 5px 0 0 0;"><strong>Politecnico di Torino</strong> – Italy<br>2024 – 2026<br> </p>
   </div>
