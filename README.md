@@ -27,6 +27,13 @@
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; position: relative; padding-left: 20px; border-left: 3px solid #ccc; margin-top: 20px;">
 
+
+<div style="position: relative;">
+    <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
+    <h3 style="margin: 0;">🎓 Master's degree in Applied mathematics - MVA (Mathematics, Vision and Learning)</h3>
+    <p style="margin: 5px 0 0 0;"><strong>ENS Paris-Saclay</strong> – France<br>2021 – 2024</p>
+  </div>
+
   <div style="margin-bottom: 40px; position: relative;">
     <div style="position: absolute; left: -11px; top: 3px; width: 14px; height: 14px; background-color: #6a5acd; border-radius: 50%; border: 2px solid white;"></div>
     <h3 style="margin: 0;">🎓Double Master's Degree specializing in Artificial Intelligence</h3>
